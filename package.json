@@ -1,0 +1,12 @@
+{
+  "name": "html-css-boilerplate",
+  "description": "A simple boilerplate project to play around with html and css",
+  "license": "MIT",
+  "repository": "github.com/piperamirez/html-css-boilerplate",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "1.0.1",
+    "grunt-contrib-connect": "1.0.2",
+    "grunt-contrib-watch": "1.0.0"
+  }
+}
