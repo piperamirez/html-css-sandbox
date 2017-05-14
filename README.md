@@ -1,16 +1,23 @@
 # html-css-sandbox
 A simple boilerplate project to play around with html and css.
 
-Requires Node.js
+### Install Node.js
 
-## Setup
+Get it here: https://nodejs.org/en/.
+
+### Setup the project
 
 ```bash
 $ npm install
 ```
 
-## Run
+### Run
 
 ```bash
 $ grunt serve
 ```
+### Play around!
+
+Edit the content in `www` using your favorite editor and see it change in your browser.
+
+We recommend Atom: http://www.atom.io.
