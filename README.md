@@ -10,7 +10,10 @@ Get it here: https://nodejs.org/en/.
 ```bash
 $ npm install
 ```
-
+### Install Grunt
+```bash
+$ sudo npm install -g grunt
+```
 ### Run
 
 ```bash
